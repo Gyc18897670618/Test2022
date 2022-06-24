@@ -1,4 +1,4 @@
-package com.vanke.leetcode.thred01;
+package com.vanke.leetcode.thred.thred01;
 
 public class Foo {
 
