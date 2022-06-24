@@ -6,7 +6,6 @@ public class Foo {
     private int signal = 1;
     private Object obj = new Object();
 
-
     public Foo() {
 
     }
