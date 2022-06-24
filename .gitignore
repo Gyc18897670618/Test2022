@@ -17,6 +17,8 @@ logs/
 
 ### IntelliJ IDEA ###
 .idea
+.idea/*.xml
+.idea/inspectionProfiles/*.xml
 *.iws
 *.iml
 *.ipr
